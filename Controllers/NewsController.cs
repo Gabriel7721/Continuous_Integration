@@ -1,13 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MyEx1.Models;
+using MyEx1.Models;,
 
 namespace MyEx1.Controllers
 {
-    public class NewsController : Controller
+    public class NewsController : Controller,
     {
         NewsDbContext ctx;
-        public NewsController(NewsDbContext ctx)
+        public NewsController(NewsDbContext ctx),
         {
             this.ctx = ctx;
         }
