@@ -1,0 +1,11 @@
+C:\Users\tribu\OneDrive - DBI - VN CO., LTD\Information Technology (IT)\C#\Aptech\Lab9\Lab9Lib\bin\Debug\net6.0\Lab9Lib.deps.json
+C:\Users\tribu\OneDrive - DBI - VN CO., LTD\Information Technology (IT)\C#\Aptech\Lab9\Lab9Lib\bin\Debug\net6.0\Lab9Lib.dll
+C:\Users\tribu\OneDrive - DBI - VN CO., LTD\Information Technology (IT)\C#\Aptech\Lab9\Lab9Lib\bin\Debug\net6.0\Lab9Lib.pdb
+C:\Users\tribu\OneDrive - DBI - VN CO., LTD\Information Technology (IT)\C#\Aptech\Lab9\Lab9Lib\obj\Debug\net6.0\Lab9Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tribu\OneDrive - DBI - VN CO., LTD\Information Technology (IT)\C#\Aptech\Lab9\Lab9Lib\obj\Debug\net6.0\Lab9Lib.AssemblyInfoInputs.cache
+C:\Users\tribu\OneDrive - DBI - VN CO., LTD\Information Technology (IT)\C#\Aptech\Lab9\Lab9Lib\obj\Debug\net6.0\Lab9Lib.AssemblyInfo.cs
+C:\Users\tribu\OneDrive - DBI - VN CO., LTD\Information Technology (IT)\C#\Aptech\Lab9\Lab9Lib\obj\Debug\net6.0\Lab9Lib.csproj.CoreCompileInputs.cache
+C:\Users\tribu\OneDrive - DBI - VN CO., LTD\Information Technology (IT)\C#\Aptech\Lab9\Lab9Lib\obj\Debug\net6.0\Lab9Lib.dll
+C:\Users\tribu\OneDrive - DBI - VN CO., LTD\Information Technology (IT)\C#\Aptech\Lab9\Lab9Lib\obj\Debug\net6.0\refint\Lab9Lib.dll
+C:\Users\tribu\OneDrive - DBI - VN CO., LTD\Information Technology (IT)\C#\Aptech\Lab9\Lab9Lib\obj\Debug\net6.0\Lab9Lib.pdb
+C:\Users\tribu\OneDrive - DBI - VN CO., LTD\Information Technology (IT)\C#\Aptech\Lab9\Lab9Lib\obj\Debug\net6.0\ref\Lab9Lib.dll
