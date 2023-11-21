@@ -7,7 +7,7 @@ namespace MyEx1.Controllers
     public class NewsController : Controller
     {
         NewsDbContext ctx;
-        public NewsController(NewsDbContext ctx)
+        public NewsController(NewsDbContext ctx),
         {
             this.ctx = ctx;
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "T82vdFhe2fA4NRJE3ILyUi7F3EvcCwp3Q3uOJTlG0Nj4CBpHhmcLwNR/Sf3xD6BgeVEcq5/AyArEg3LaDQQjaA==",
+  "dgSpecHash": "22Un4jORRzi1OQYu86gwx/cS8Y09/mJTZmCcyFS00Tcwm36z4PhndEZfdIN5d7iUvqxOr37qby9OOa5XWFQ42A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tribu\\OneDrive - DBI - VN CO., LTD\\Information Technology (IT)\\C#\\Aptech\\Lab9\\Continuous_Integration\\MyEx1.csproj",
+  "projectFilePath": "C:\\Users\\tribu\\OneDrive - DBI - VN CO., LTD\\Information Technology (IT)\\C#\\Aptech\\Lab9\\Continuous_Integration\\Continuous_Integration\\MyEx1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tribu\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\tribu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
